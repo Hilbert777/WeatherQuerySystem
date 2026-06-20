@@ -4,6 +4,11 @@
 
 当前实现以课程作业本地演示为目标。城市列表、搜索历史、主题和单位设置保存在浏览器 `localStorage` 中；后端保留 `/api/cities` 示例接口，但当前前端城市管理不依赖该接口。
 
+## 项目地址
+
+- 在线演示：https://weather-query-system.vercel.app/
+- GitHub 仓库：https://github.com/Hilbert777/WeatherQuerySystem
+
 ## 主要功能
 
 ### 1. 城市搜索
@@ -63,7 +68,7 @@
 - 支持浅色 / 深色主题切换。
 - 支持摄氏度 / 华氏度切换。
 - 主题和单位设置会保存到本地，下次打开仍然生效。
-- 首页主导航栏位于页面顶部，滚动时固定；城市详情页顶部操作栏保持吸顶，便于刷新和切换偏好。
+- 首页主导航栏和城市详情页顶部操作栏都位于页面顶部，滚动时不固定、不吸顶。
 
 ### 6. 轻量后端
 
@@ -323,6 +328,36 @@ npm.cmd run build
 
 当前项目中 ECharts 构建产物可能会出现 500KB 体积提示，这是 Vite 的性能提示，不影响项目运行。
 
+## Vercel 部署
+
+项目已部署到 Vercel：
+
+```text
+https://weather-query-system.vercel.app/
+```
+
+Vercel 部署使用 `vercel.json` 指定：
+
+- 构建命令：`npm run build`
+- 前端输出目录：`dist/client`
+- `/api/*` 请求转发到 `api/[...path].js`
+- 其他路径回退到 `index.html`，用于支持 Vue Router 前端路由刷新
+
+线上部署需要在 Vercel 项目环境变量中配置：
+
+```text
+QWEATHER_API_KEY=你的和风天气APIKey
+QWEATHER_API_HOST=你的和风天气APIHost
+```
+
+配置或修改环境变量后，需要重新部署。部署完成后可以先访问：
+
+```text
+https://weather-query-system.vercel.app/api/health
+```
+
+如果该地址返回 JSON，说明 Vercel 后端函数路由正常；如果返回 HTML，则说明 `/api` 请求被前端路由回退规则拦截。
+
 ## 常见问题
 
 ### 1. 后端启动后打开根路径显示什么？
@@ -352,5 +387,4 @@ http://127.0.0.1:5173/
 ### 3. 为什么没有使用数据库？
 
 本项目的核心天气数据来自和风天气 API，用户偏好和城市列表保存在浏览器本地即可满足作业需求。引入数据库会增加部署和维护复杂度，但对当前功能价值不大，所以采用无数据库轻量方案。
-
 
