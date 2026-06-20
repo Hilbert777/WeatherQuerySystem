@@ -470,6 +470,10 @@ app.use((req, res) => {
   fail(res, new AppError(404, "NOT_FOUND", "接口不存在"));
 });
 
-app.listen(port, "127.0.0.1", () => {
-  console.log(`Weather API server listening on http://127.0.0.1:${port}`);
-});
+if (!process.env.VERCEL) {
+  app.listen(port, "127.0.0.1", () => {
+    console.log(`Weather API server listening on http://127.0.0.1:${port}`);
+  });
+}
+
+export default app;
