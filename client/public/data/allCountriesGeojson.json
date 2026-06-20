@@ -1,0 +1,1071 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "AFG",
+      "properties": {
+        "capital": "Kabul",
+        "latitude": "33.00000000",
+        "longitude": "65.00000000",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "phone_code": "93",
+        "cities": [
+          {
+            "id": "1",
+            "state_id": "1",
+            "code": "HEA",
+            "name": "Herat",
+            "cname": "赫拉特",
+            "lower_name": "herat",
+            "code_full": "AFG000HEA"
+          },
+          {
+            "id": "2",
+            "state_id": "1",
+            "code": "KBL",
+            "name": "Kabul",
+            "cname": "喀布尔",
+            "lower_name": "kabul",
+            "code_full": "AFG000KBL"
+          },
+          {
+            "id": "3",
+            "state_id": "1",
+            "code": "KDH",
+            "name": "Kandahar",
+            "cname": "坎大哈",
+            "lower_name": "kandahar",
+            "code_full": "AFG000KDH"
+          },
+          {
+            "id": "4",
+            "state_id": "1",
+            "code": "MZR",
+            "name": "Mazar-i Sharif",
+            "cname": "马扎里沙里夫",
+            "lower_name": "mazar-i sharif",
+            "code_full": "AFG000MZR"
+          }
+        ],
+        "name_used": "Afghanistan",
+        "id": "2",
+        "continent_id": "1",
+        "code": "AFG",
+        "name": "Afghanistan",
+        "full_name": "the Islamic Republic of Afghanistan",
+        "cname": "阿富汗",
+        "full_cname": "阿富汗斯坦伊斯兰共和国",
+        "lower_name": "the islamic republic of afghanistan",
+        "remark": "阿富汗位于西亚、南亚和中亚交汇处，北接土库曼斯坦、乌兹别克斯坦和塔吉克斯坦，东北突出的狭长地带与中国接壤，东和东南与巴基斯坦毗邻，西与伊朗交界。[2] "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [61.210817, 35.650072],
+            [62.230651, 35.270664],
+            [62.984662, 35.404041],
+            [63.193538, 35.857166],
+            [63.982896, 36.007957],
+            [64.546479, 36.312073],
+            [64.746105, 37.111818],
+            [65.588948, 37.305217],
+            [65.745631, 37.661164],
+            [66.217385, 37.39379],
+            [66.518607, 37.362784],
+            [67.075782, 37.356144],
+            [67.83, 37.144994],
+            [68.135562, 37.023115],
+            [68.859446, 37.344336],
+            [69.196273, 37.151144],
+            [69.518785, 37.608997],
+            [70.116578, 37.588223],
+            [70.270574, 37.735165],
+            [70.376304, 38.138396],
+            [70.806821, 38.486282],
+            [71.348131, 38.258905],
+            [71.239404, 37.953265],
+            [71.541918, 37.905774],
+            [71.448693, 37.065645],
+            [71.844638, 36.738171],
+            [72.193041, 36.948288],
+            [72.63689, 37.047558],
+            [73.260056, 37.495257],
+            [73.948696, 37.421566],
+            [74.980002, 37.41999],
+            [75.158028, 37.133031],
+            [74.575893, 37.020841],
+            [74.067552, 36.836176],
+            [72.920025, 36.720007],
+            [71.846292, 36.509942],
+            [71.262348, 36.074388],
+            [71.498768, 35.650563],
+            [71.613076, 35.153203],
+            [71.115019, 34.733126],
+            [71.156773, 34.348911],
+            [70.881803, 33.988856],
+            [69.930543, 34.02012],
+            [70.323594, 33.358533],
+            [69.687147, 33.105499],
+            [69.262522, 32.501944],
+            [69.317764, 31.901412],
+            [68.926677, 31.620189],
+            [68.556932, 31.71331],
+            [67.792689, 31.58293],
+            [67.683394, 31.303154],
+            [66.938891, 31.304911],
+            [66.381458, 30.738899],
+            [66.346473, 29.887943],
+            [65.046862, 29.472181],
+            [64.350419, 29.560031],
+            [64.148002, 29.340819],
+            [63.550261, 29.468331],
+            [62.549857, 29.318572],
+            [60.874248, 29.829239],
+            [61.781222, 30.73585],
+            [61.699314, 31.379506],
+            [60.941945, 31.548075],
+            [60.863655, 32.18292],
+            [60.536078, 32.981269],
+            [60.9637, 33.528832],
+            [60.52843, 33.676446],
+            [60.803193, 34.404102],
+            [61.210817, 35.650072]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "AGO",
+      "properties": {
+        "capital": "Luanda",
+        "latitude": "-12.50000000",
+        "longitude": "18.50000000",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "phone_code": "244",
+        "cities": [
+          {
+            "id": "5",
+            "state_id": "2",
+            "code": "BGO",
+            "name": "Bengo",
+            "cname": "本戈",
+            "lower_name": "bengo",
+            "code_full": "AGO000BGO"
+          },
+          {
+            "id": "6",
+            "state_id": "2",
+            "code": "BGU",
+            "name": "Benguela",
+            "cname": "本格拉",
+            "lower_name": "benguela",
+            "code_full": "AGO000BGU"
+          },
+          {
+            "id": "7",
+            "state_id": "2",
+            "code": "BIE",
+            "name": "Bie",
+            "cname": "比耶",
+            "lower_name": "bie",
+            "code_full": "AGO000BIE"
+          },
+          {
+            "id": "8",
+            "state_id": "2",
+            "code": "CAB",
+            "name": "Cabinda",
+            "cname": "卡宾达",
+            "lower_name": "cabinda",
+            "code_full": "AGO000CAB"
+          },
+          {
+            "id": "9",
+            "state_id": "2",
+            "code": "CCU",
+            "name": "Cuando Cubango",
+            "cname": "宽多库邦戈",
+            "lower_name": "cuando cubango",
+            "code_full": "AGO000CCU"
+          },
+          {
+            "id": "10",
+            "state_id": "2",
+            "code": "CNN",
+            "name": "Cunene",
+            "cname": "库内内",
+            "lower_name": "cunene",
+            "code_full": "AGO000CNN"
+          },
+          {
+            "id": "11",
+            "state_id": "2",
+            "code": "CNO",
+            "name": "Cuanza Norte",
+            "cname": "北宽扎",
+            "lower_name": "cuanza norte",
+            "code_full": "AGO000CNO"
+          },
+          {
+            "id": "12",
+            "state_id": "2",
+            "code": "CUS",
+            "name": "Cuanza Sul",
+            "cname": "南宽扎",
+            "lower_name": "cuanza sul",
+            "code_full": "AGO000CUS"
+          },
+          {
+            "id": "13",
+            "state_id": "2",
+            "code": "HUA",
+            "name": "Huambo",
+            "cname": "万博",
+            "lower_name": "huambo",
+            "code_full": "AGO000HUA"
+          },
+          {
+            "id": "14",
+            "state_id": "2",
+            "code": "HUI",
+            "name": "Huila",
+            "cname": "威拉",
+            "lower_name": "huila",
+            "code_full": "AGO000HUI"
+          },
+          {
+            "id": "15",
+            "state_id": "2",
+            "code": "LNO",
+            "name": "Lunda Norte",
+            "cname": "北隆达",
+            "lower_name": "lunda norte",
+            "code_full": "AGO000LNO"
+          },
+          {
+            "id": "16",
+            "state_id": "2",
+            "code": "LSU",
+            "name": "Lunda Sul",
+            "cname": "南隆达",
+            "lower_name": "lunda sul",
+            "code_full": "AGO000LSU"
+          },
+          {
+            "id": "17",
+            "state_id": "2",
+            "code": "LUA",
+            "name": "Luanda",
+            "cname": "罗安达",
+            "lower_name": "luanda",
+            "code_full": "AGO000LUA"
+          },
+          {
+            "id": "18",
+            "state_id": "2",
+            "code": "MAL",
+            "name": "Malanje",
+            "cname": "马兰热",
+            "lower_name": "malanje",
+            "code_full": "AGO000MAL"
+          },
+          {
+            "id": "19",
+            "state_id": "2",
+            "code": "MOX",
+            "name": "Moxico",
+            "cname": "莫希科",
+            "lower_name": "moxico",
+            "code_full": "AGO000MOX"
+          },
+          {
+            "id": "20",
+            "state_id": "2",
+            "code": "NAM",
+            "name": "Namibe",
+            "cname": "纳米贝",
+            "lower_name": "namibe",
+            "code_full": "AGO000NAM"
+          },
+          {
+            "id": "21",
+            "state_id": "2",
+            "code": "UIG",
+            "name": "Uige",
+            "cname": "威热",
+            "lower_name": "uige",
+            "code_full": "AGO000UIG"
+          },
+          {
+            "id": "22",
+            "state_id": "2",
+            "code": "ZAI",
+            "name": "Zaire",
+            "cname": "扎伊尔",
+            "lower_name": "zaire",
+            "code_full": "AGO000ZAI"
+          }
+        ],
+        "name_used": "Angola",
+        "id": "3",
+        "continent_id": "3",
+        "code": "AGO",
+        "name": "Angola",
+        "full_name": "the Republic of Angola",
+        "cname": "安哥拉",
+        "full_cname": "安哥拉共和国",
+        "lower_name": "the republic of angola",
+        "remark": "安哥拉位于非洲西南部，首都罗安达，西滨大西洋，北及东北邻刚果民主共和国，南邻纳米比亚，东南邻赞比亚，另有一块外飞地卡宾达省与刚果共和国、刚果民主共和国相邻。"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [16.326528, -5.87747],
+              [16.57318, -6.622645],
+              [16.860191, -7.222298],
+              [17.089996, -7.545689],
+              [17.47297, -8.068551],
+              [18.134222, -7.987678],
+              [18.464176, -7.847014],
+              [19.016752, -7.988246],
+              [19.166613, -7.738184],
+              [19.417502, -7.155429],
+              [20.037723, -7.116361],
+              [20.091622, -6.94309],
+              [20.601823, -6.939318],
+              [20.514748, -7.299606],
+              [21.728111, -7.290872],
+              [21.746456, -7.920085],
+              [21.949131, -8.305901],
+              [21.801801, -8.908707],
+              [21.875182, -9.523708],
+              [22.208753, -9.894796],
+              [22.155268, -11.084801],
+              [22.402798, -10.993075],
+              [22.837345, -11.017622],
+              [23.456791, -10.867863],
+              [23.912215, -10.926826],
+              [24.017894, -11.237298],
+              [23.904154, -11.722282],
+              [24.079905, -12.191297],
+              [23.930922, -12.565848],
+              [24.016137, -12.911046],
+              [21.933886, -12.898437],
+              [21.887843, -16.08031],
+              [22.562478, -16.898451],
+              [23.215048, -17.523116],
+              [21.377176, -17.930636],
+              [18.956187, -17.789095],
+              [18.263309, -17.309951],
+              [14.209707, -17.353101],
+              [14.058501, -17.423381],
+              [13.462362, -16.971212],
+              [12.814081, -16.941343],
+              [12.215461, -17.111668],
+              [11.734199, -17.301889],
+              [11.640096, -16.673142],
+              [11.778537, -15.793816],
+              [12.123581, -14.878316],
+              [12.175619, -14.449144],
+              [12.500095, -13.5477],
+              [12.738479, -13.137906],
+              [13.312914, -12.48363],
+              [13.633721, -12.038645],
+              [13.738728, -11.297863],
+              [13.686379, -10.731076],
+              [13.387328, -10.373578],
+              [13.120988, -9.766897],
+              [12.87537, -9.166934],
+              [12.929061, -8.959091],
+              [13.236433, -8.562629],
+              [12.93304, -7.596539],
+              [12.728298, -6.927122],
+              [12.227347, -6.294448],
+              [12.322432, -6.100092],
+              [12.735171, -5.965682],
+              [13.024869, -5.984389],
+              [13.375597, -5.864241],
+              [16.326528, -5.87747]
+            ]
+          ],
+          [
+            [
+              [12.436688, -5.684304],
+              [12.182337, -5.789931],
+              [11.914963, -5.037987],
+              [12.318608, -4.60623],
+              [12.62076, -4.438023],
+              [12.995517, -4.781103],
+              [12.631612, -4.991271],
+              [12.468004, -5.248362],
+              [12.436688, -5.684304]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ALB",
+      "properties": {
+        "capital": "Tirana",
+        "latitude": "41.00000000",
+        "longitude": "20.00000000",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "phone_code": "355",
+        "cities": [
+          {
+            "id": "23",
+            "state_id": "3",
+            "code": "BR",
+            "name": "Berat",
+            "cname": "培拉特",
+            "lower_name": "berat",
+            "code_full": "ALB0000BR"
+          },
+          {
+            "id": "24",
+            "state_id": "3",
+            "code": "DI",
+            "name": "Diber",
+            "cname": "迪勃拉",
+            "lower_name": "diber",
+            "code_full": "ALB0000DI"
+          },
+          {
+            "id": "25",
+            "state_id": "3",
+            "code": "DR",
+            "name": "Durres",
+            "cname": "都拉斯",
+            "lower_name": "durres",
+            "code_full": "ALB0000DR"
+          },
+          {
+            "id": "26",
+            "state_id": "3",
+            "code": "EL",
+            "name": "Elbasan",
+            "cname": "爱尔巴桑",
+            "lower_name": "elbasan",
+            "code_full": "ALB0000EL"
+          },
+          {
+            "id": "27",
+            "state_id": "3",
+            "code": "FR",
+            "name": "Fier",
+            "cname": "费里",
+            "lower_name": "fier",
+            "code_full": "ALB0000FR"
+          },
+          {
+            "id": "28",
+            "state_id": "3",
+            "code": "GJ",
+            "name": "Gjirokaster",
+            "cname": "吉诺卡斯特",
+            "lower_name": "gjirokaster",
+            "code_full": "ALB0000GJ"
+          },
+          {
+            "id": "29",
+            "state_id": "3",
+            "code": "KO",
+            "name": "Korce",
+            "cname": "科尔察",
+            "lower_name": "korce",
+            "code_full": "ALB0000KO"
+          },
+          {
+            "id": "30",
+            "state_id": "3",
+            "code": "KU",
+            "name": "Kukes",
+            "cname": "库克斯",
+            "lower_name": "kukes",
+            "code_full": "ALB0000KU"
+          },
+          {
+            "id": "31",
+            "state_id": "3",
+            "code": "LE",
+            "name": "Lezhe",
+            "cname": "莱什",
+            "lower_name": "lezhe",
+            "code_full": "ALB0000LE"
+          },
+          {
+            "id": "32",
+            "state_id": "3",
+            "code": "SH",
+            "name": "Shkoder",
+            "cname": "斯库台",
+            "lower_name": "shkoder",
+            "code_full": "ALB0000SH"
+          },
+          {
+            "id": "33",
+            "state_id": "3",
+            "code": "TR",
+            "name": "Tirane",
+            "cname": "地拉那",
+            "lower_name": "tirane",
+            "code_full": "ALB0000TR"
+          },
+          {
+            "id": "34",
+            "state_id": "3",
+            "code": "VL",
+            "name": "Vlore",
+            "cname": "发罗拉",
+            "lower_name": "vlore",
+            "code_full": "ALB0000VL"
+          }
+        ],
+        "name_used": "Albania",
+        "id": "6",
+        "continent_id": "2",
+        "code": "ALB",
+        "name": "Albania",
+        "full_name": "The Republic of Albania",
+        "cname": "阿尔巴尼亚",
+        "full_cname": "阿尔巴尼亚共和国",
+        "lower_name": "the republic of albania",
+        "remark": "阿尔巴尼亚位于东南欧巴尔干半岛西岸，北接塞尔维亚与黑山，东北与马其顿相连，东南邻希腊，西濒亚得里亚海和伊奥尼亚海，隔奥特朗托海峡与意大利相望。海岸线长472公里。"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [20.590247, 41.855404],
+            [20.463175, 41.515089],
+            [20.605182, 41.086226],
+            [21.02004, 40.842727],
+            [20.99999, 40.580004],
+            [20.674997, 40.435],
+            [20.615, 40.110007],
+            [20.150016, 39.624998],
+            [19.98, 39.694993],
+            [19.960002, 39.915006],
+            [19.406082, 40.250773],
+            [19.319059, 40.72723],
+            [19.40355, 41.409566],
+            [19.540027, 41.719986],
+            [19.371769, 41.877548],
+            [19.304486, 42.195745],
+            [19.738051, 42.688247],
+            [19.801613, 42.500093],
+            [20.0707, 42.58863],
+            [20.283755, 42.32026],
+            [20.52295, 42.21787],
+            [20.590247, 41.855404]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ARE",
+      "properties": {
+        "capital": "Abu Dhabi",
+        "latitude": "24.00000000",
+        "longitude": "54.00000000",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "phone_code": "971",
+        "cities": [
+          {
+            "id": "42",
+            "state_id": "5",
+            "code": "AL",
+            "name": "Al l'Ayn",
+            "cname": "艾因",
+            "lower_name": "al l'ayn",
+            "code_full": "ARE0000AL"
+          },
+          {
+            "id": "43",
+            "state_id": "5",
+            "code": "AZ",
+            "name": "Abu Dhabi",
+            "cname": "阿布扎比",
+            "lower_name": "abu dhabi",
+            "code_full": "ARE0000AZ"
+          },
+          {
+            "id": "44",
+            "state_id": "5",
+            "code": "DU",
+            "name": "Dubai",
+            "cname": "迪拜",
+            "lower_name": "dubai",
+            "code_full": "ARE0000DU"
+          },
+          {
+            "id": "45",
+            "state_id": "5",
+            "code": "SH",
+            "name": "Ash Shariqah",
+            "cname": "沙迦",
+            "lower_name": "ash shariqah",
+            "code_full": "ARE0000SH"
+          }
+        ],
+        "name_used": "United Arab Emirates",
+        "id": "9",
+        "continent_id": "1",
+        "code": "ARE",
+        "name": "United Arab Emirates",
+        "full_name": "The United Arab Emirates",
+        "cname": "阿联酋",
+        "full_cname": "阿拉伯联合酋长国",
+        "lower_name": "the united arab emirates",
+        "remark": "阿拉伯联合酋长国（阿拉伯文：امارات عربية متحدة‎，英文：The United Arab Emirates），简称为阿联酋，位于阿拉伯半岛东部，北濒波斯湾，西北与卡塔尔为邻，西和南与沙特阿拉伯交界，东和东北与阿曼毗连海岸线长734公里，总面积83600平方公里，首都阿布扎比。[1] \n"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [51.579519, 24.245497],
+            [51.757441, 24.294073],
+            [51.794389, 24.019826],
+            [52.577081, 24.177439],
+            [53.404007, 24.151317],
+            [54.008001, 24.121758],
+            [54.693024, 24.797892],
+            [55.439025, 25.439145],
+            [56.070821, 26.055464],
+            [56.261042, 25.714606],
+            [56.396847, 24.924732],
+            [55.886233, 24.920831],
+            [55.804119, 24.269604],
+            [55.981214, 24.130543],
+            [55.528632, 23.933604],
+            [55.525841, 23.524869],
+            [55.234489, 23.110993],
+            [55.208341, 22.70833],
+            [55.006803, 22.496948],
+            [52.000733, 23.001154],
+            [51.617708, 24.014219],
+            [51.579519, 24.245497]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ARG",
+      "properties": {
+        "capital": "Buenos Aires",
+        "latitude": "-34.00000000",
+        "longitude": "-64.00000000",
+        "region": "Americas",
+        "subregion": "South America",
+        "phone_code": "54",
+        "cities": [
+          {
+            "id": "46",
+            "state_id": "6",
+            "code": "AFA",
+            "name": "San Rafael",
+            "cname": "圣拉斐尔",
+            "lower_name": "san rafael",
+            "code_full": "ARG000AFA"
+          },
+          {
+            "id": "47",
+            "state_id": "6",
+            "code": "BHI",
+            "name": "Bahia Blanca",
+            "cname": "布兰卡港",
+            "lower_name": "bahia blanca",
+            "code_full": "ARG000BHI"
+          },
+          {
+            "id": "48",
+            "state_id": "6",
+            "code": "BUE",
+            "name": "Buenos Aires",
+            "cname": "布宜诺斯艾利斯",
+            "lower_name": "buenos aires",
+            "code_full": "ARG000BUE"
+          },
+          {
+            "id": "49",
+            "state_id": "6",
+            "code": "CNQ",
+            "name": "Corrientes",
+            "cname": "科连特斯",
+            "lower_name": "corrientes",
+            "code_full": "ARG000CNQ"
+          },
+          {
+            "id": "50",
+            "state_id": "6",
+            "code": "COC",
+            "name": "Concordia",
+            "cname": "肯考迪娅",
+            "lower_name": "concordia",
+            "code_full": "ARG000COC"
+          },
+          {
+            "id": "51",
+            "state_id": "6",
+            "code": "COR",
+            "name": "Cordoba",
+            "cname": "科尔多瓦",
+            "lower_name": "cordoba",
+            "code_full": "ARG000COR"
+          },
+          {
+            "id": "52",
+            "state_id": "6",
+            "code": "CRD",
+            "name": "Comodoro Rivadavia",
+            "cname": "里瓦达维亚海军准将城",
+            "lower_name": "comodoro rivadavia",
+            "code_full": "ARG000CRD"
+          },
+          {
+            "id": "53",
+            "state_id": "6",
+            "code": "CTC",
+            "name": "Catamarca",
+            "cname": "卡塔马卡",
+            "lower_name": "catamarca",
+            "code_full": "ARG000CTC"
+          },
+          {
+            "id": "54",
+            "state_id": "6",
+            "code": "FMA",
+            "name": "Formosa",
+            "cname": "福莫萨",
+            "lower_name": "formosa",
+            "code_full": "ARG000FMA"
+          },
+          {
+            "id": "55",
+            "state_id": "6",
+            "code": "IRJ",
+            "name": "La Rioja",
+            "cname": "拉里奥哈",
+            "lower_name": "la rioja",
+            "code_full": "ARG000IRJ"
+          },
+          {
+            "id": "56",
+            "state_id": "6",
+            "code": "JUJ",
+            "name": "Jujuy",
+            "cname": "胡胡伊",
+            "lower_name": "jujuy",
+            "code_full": "ARG000JUJ"
+          },
+          {
+            "id": "57",
+            "state_id": "6",
+            "code": "LPG",
+            "name": "La Plata",
+            "cname": "拉普拉塔",
+            "lower_name": "la plata",
+            "code_full": "ARG000LPG"
+          },
+          {
+            "id": "58",
+            "state_id": "6",
+            "code": "LUQ",
+            "name": "San Luis",
+            "cname": "圣路易斯",
+            "lower_name": "san luis",
+            "code_full": "ARG000LUQ"
+          },
+          {
+            "id": "59",
+            "state_id": "6",
+            "code": "MDQ",
+            "name": "Mar del Plata",
+            "cname": "马德普拉塔",
+            "lower_name": "mar del plata",
+            "code_full": "ARG000MDQ"
+          },
+          {
+            "id": "60",
+            "state_id": "6",
+            "code": "MDZ",
+            "name": "Mendoza",
+            "cname": "门多萨",
+            "lower_name": "mendoza",
+            "code_full": "ARG000MDZ"
+          },
+          {
+            "id": "61",
+            "state_id": "6",
+            "code": "NQN",
+            "name": "Neuquen",
+            "cname": "内乌肯",
+            "lower_name": "neuquen",
+            "code_full": "ARG000NQN"
+          },
+          {
+            "id": "62",
+            "state_id": "6",
+            "code": "PRA",
+            "name": "Parana",
+            "cname": "巴拉那",
+            "lower_name": "parana",
+            "code_full": "ARG000PRA"
+          },
+          {
+            "id": "63",
+            "state_id": "6",
+            "code": "PSS",
+            "name": "Posadas",
+            "cname": "波萨达斯",
+            "lower_name": "posadas",
+            "code_full": "ARG000PSS"
+          },
+          {
+            "id": "64",
+            "state_id": "6",
+            "code": "RCU",
+            "name": "Rio Cuarto",
+            "cname": "里奥夸尔托",
+            "lower_name": "rio cuarto",
+            "code_full": "ARG000RCU"
+          },
+          {
+            "id": "65",
+            "state_id": "6",
+            "code": "REL",
+            "name": "Trelew",
+            "cname": "特雷利乌",
+            "lower_name": "trelew",
+            "code_full": "ARG000REL"
+          },
+          {
+            "id": "66",
+            "state_id": "6",
+            "code": "RES",
+            "name": "Resistencia",
+            "cname": "雷西斯滕匹亚",
+            "lower_name": "resistencia",
+            "code_full": "ARG000RES"
+          },
+          {
+            "id": "67",
+            "state_id": "6",
+            "code": "RGL",
+            "name": "Rio Gallegos",
+            "cname": "里奥加耶戈斯",
+            "lower_name": "rio gallegos",
+            "code_full": "ARG000RGL"
+          },
+          {
+            "id": "68",
+            "state_id": "6",
+            "code": "ROS",
+            "name": "Rosario",
+            "cname": "罗萨里奥",
+            "lower_name": "rosario",
+            "code_full": "ARG000ROS"
+          },
+          {
+            "id": "69",
+            "state_id": "6",
+            "code": "RSA",
+            "name": "Santa Rosa",
+            "cname": "圣罗莎",
+            "lower_name": "santa rosa",
+            "code_full": "ARG000RSA"
+          },
+          {
+            "id": "70",
+            "state_id": "6",
+            "code": "RWO",
+            "name": "Rawson",
+            "cname": "罗森",
+            "lower_name": "rawson",
+            "code_full": "ARG000RWO"
+          },
+          {
+            "id": "71",
+            "state_id": "6",
+            "code": "SDE",
+            "name": "Santiago del Estero",
+            "cname": "圣地亚哥-德尔埃斯特罗",
+            "lower_name": "santiago del estero",
+            "code_full": "ARG000SDE"
+          },
+          {
+            "id": "72",
+            "state_id": "6",
+            "code": "SFN",
+            "name": "Santa Fe",
+            "cname": "圣菲",
+            "lower_name": "santa fe",
+            "code_full": "ARG000SFN"
+          },
+          {
+            "id": "73",
+            "state_id": "6",
+            "code": "SLA",
+            "name": "Salta",
+            "cname": "萨尔塔",
+            "lower_name": "salta",
+            "code_full": "ARG000SLA"
+          },
+          {
+            "id": "74",
+            "state_id": "6",
+            "code": "SMC",
+            "name": "San Miguel de Tucuman",
+            "cname": "圣米格尔-德图库曼",
+            "lower_name": "san miguel de tucuman",
+            "code_full": "ARG000SMC"
+          },
+          {
+            "id": "75",
+            "state_id": "6",
+            "code": "SNS",
+            "name": "San Nicolas",
+            "cname": "圣尼古拉斯",
+            "lower_name": "san nicolas",
+            "code_full": "ARG000SNS"
+          },
+          {
+            "id": "76",
+            "state_id": "6",
+            "code": "UAQ",
+            "name": "San Juan",
+            "cname": "圣胡安",
+            "lower_name": "san juan",
+            "code_full": "ARG000UAQ"
+          },
+          {
+            "id": "77",
+            "state_id": "6",
+            "code": "USH",
+            "name": "Ushuaia",
+            "cname": "乌斯怀亚",
+            "lower_name": "ushuaia",
+            "code_full": "ARG000USH"
+          },
+          {
+            "id": "78",
+            "state_id": "6",
+            "code": "VDM",
+            "name": "Viedma",
+            "cname": "别德马",
+            "lower_name": "viedma",
+            "code_full": "ARG000VDM"
+          },
+          {
+            "id": "79",
+            "state_id": "6",
+            "code": "VLK",
+            "name": "Villa Krause",
+            "cname": "克劳斯城",
+            "lower_name": "villa krause",
+            "code_full": "ARG000VLK"
+          }
+        ],
+        "name_used": "Argentina",
+        "id": "10",
+        "continent_id": "7",
+        "code": "ARG",
+        "name": "Argentina",
+        "full_name": "The Republic of Argentina",
+        "cname": "阿根廷",
+        "full_cname": "阿根廷共和国",
+        "lower_name": "the republic of argentina",
+        "remark": "阿根廷是南美洲国家联盟、20国集团成员和拉美第三大经济体。阿根廷是世界上综合国力较强的发展中国家之一。阿根廷也是世界粮食和肉类的主要生产和出口国之一。"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [-65.5, -55.2],
+              [-66.45, -55.25],
+              [-66.95992, -54.89681],
+              [-67.56244, -54.87001],
+              [-68.63335, -54.8695],
+              [-68.63401, -52.63637],
+              [-68.25, -53.1],
+              [-67.75, -53.85],
+              [-66.45, -54.45],
+              [-65.05, -54.7],
+              [-65.5, -55.2]
+            ]
+          ],
+          [
+            [
+              [-64.964892, -22.075862],
+              [-64.377021, -22.798091],
+              [-63.986838, -21.993644],
+              [-62.846468, -22.034985],
+              [-62.685057, -22.249029],
+              [-60.846565, -23.880713],
+              [-60.028966, -24.032796],
+              [-58.807128, -24.771459],
+              [-57.777217, -25.16234],
+              [-57.63366, -25.603657],
+              [-58.618174, -27.123719],
+              [-57.60976, -27.395899],
+              [-56.486702, -27.548499],
+              [-55.695846, -27.387837],
+              [-54.788795, -26.621786],
+              [-54.625291, -25.739255],
+              [-54.13005, -25.547639],
+              [-53.628349, -26.124865],
+              [-53.648735, -26.923473],
+              [-54.490725, -27.474757],
+              [-55.162286, -27.881915],
+              [-56.2909, -28.852761],
+              [-57.625133, -30.216295],
+              [-57.874937, -31.016556],
+              [-58.14244, -32.044504],
+              [-58.132648, -33.040567],
+              [-58.349611, -33.263189],
+              [-58.427074, -33.909454],
+              [-58.495442, -34.43149],
+              [-57.22583, -35.288027],
+              [-57.362359, -35.97739],
+              [-56.737487, -36.413126],
+              [-56.788285, -36.901572],
+              [-57.749157, -38.183871],
+              [-59.231857, -38.72022],
+              [-61.237445, -38.928425],
+              [-62.335957, -38.827707],
+              [-62.125763, -39.424105],
+              [-62.330531, -40.172586],
+              [-62.145994, -40.676897],
+              [-62.745803, -41.028761],
+              [-63.770495, -41.166789],
+              [-64.73209, -40.802677],
+              [-65.118035, -41.064315],
+              [-64.978561, -42.058001],
+              [-64.303408, -42.359016],
+              [-63.755948, -42.043687],
+              [-63.458059, -42.563138],
+              [-64.378804, -42.873558],
+              [-65.181804, -43.495381],
+              [-65.328823, -44.501366],
+              [-65.565269, -45.036786],
+              [-66.509966, -45.039628],
+              [-67.293794, -45.551896],
+              [-67.580546, -46.301773],
+              [-66.597066, -47.033925],
+              [-65.641027, -47.236135],
+              [-65.985088, -48.133289],
+              [-67.166179, -48.697
